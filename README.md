@@ -1,4 +1,4 @@
-# Light-MFND: Efficient Multimodal Fake News Detection via Fine-Tuned Small Vision-Language Models
+# Light-MVQA: A Small Vision-Language Model Based Approach using Multimodal Retrieval-Augmented Generation for Medical Visual Question Answering
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange)](https://pytorch.org/)
