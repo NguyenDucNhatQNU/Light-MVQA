@@ -17,7 +17,7 @@ If you use this code or our results in your research, please cite our paper:
 
 ```bibtex
 @article{Nguyen2026,
-  title={Light-MFND: Efficient Multimodal Fake News Detection via Fine-Tuned Small Vision-Language Models},
+  title={Light-MVQA: A Small Vision-Language Model Based Approach using Multimodal Retrieval-Augmented Generation for Medical Visual Question Answering},
   author={Nguyen, Duc-Nhat and Phan, Khac-Lap and Le, Quang-Hung},
   year={2026}
 }
